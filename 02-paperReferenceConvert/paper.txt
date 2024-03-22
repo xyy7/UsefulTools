@@ -1,0 +1,328 @@
+[1] Johannes Balle, Valero Laparra, and Eero P. Simoncelli. End-to-end optimized image com-
+pression. In 5th International Conference on Learning Representations, ICLR 2017 - Con-
+ference Track Proceedings, Toulon, France, 2017. ICLR.
+[2] Johannes Balle, David Minnen, Saurabh Singh, Sung Jin Hwang, and Nick Johnston. Vari-
+ational image compression with a scale hyperprior. arXiv preprint arXiv:1802.01436, 2018.
+[3] David Minnen, Johannes Balle, and George Toderici. Joint autoregressive and hierarchi-
+cal priors for learned image compression. In Advances in Neural Information Processing
+Systems, volume 2018-December, pages 10771–10780, Montreal, QC, Canada, 2018. MIT
+Press.
+[4] Zhengxue Cheng, Heming Sun, Masaru Takeuchi, and Jiro Katto. Learned image compres-
+sion with discretized gaussian mixture likelihoods and attention modules. In Proceedings
+of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition,
+pages 7936–7945, Virtual, Online, United states, 2020. IEEE.
+[5] Yueqi Xie, Ka Leong Cheng, and Qifeng Chen. Enhanced invertible encoding for learned
+image compression. In MM 2021 - Proceedings of the 29th ACM International Conference
+on Multimedia, pages 162–170, Virtual, Online, China, 2021. ACM.
+[6] Jun-Hyuk Kim, Byeongho Heo, and Jong-Seok Lee. Joint global and local hierarchical priors
+for learned image compression. In Proceedings of the IEEE Computer Society Conference
+on Computer Vision and Pattern Recognition, volume 2022-June, pages 5982–5991, New
+Orleans, LA, United states, 2022. IEEE.
+[7] Yichen Qian, Ming Lin, Xiuyu Sun, Zhiyu Tan, and Rong Jin. Entroformer: A transformer-
+based entropy model for learned image compression. In ICLR 2022 - 10th International
+Conference on Learning Representations, Virtual, Online, 2022. ICLR.
+[8] Yinhao Zhu, Yang Yang, and Taco Cohen. Transformer-based transform coding. In ICLR
+2022 - 10th International Conference on Learning Representations, Virtual, Online, 2022.
+ICLR.
+[9] Yichen Qian, Zhiyu Tan, Xiuyu Sun, Ming Lin, Dongyang Li, Zhenhong Sun, Hao Li, and
+Rong Jin. Learning accurate entropy model with global reference for image compression.
+In ICLR 2021 - 9th International Conference on Learning Representations, Virtual, Online,
+2021. ICLR.
+[10] Haichuan Ma, Dong Liu, Ning Yan, Houqiang Li, and Feng Wu. End-to-end optimized
+versatile image compression with wavelet-like transform. IEEE Transactions on Pattern
+Analysis and Machine Intelligence, 44(3):1247–1263, 2022.
+[11] Eirikur Agustsson, Michael Tschannen, Fabian Mentzer, Radu Timofte, and Luc Van Gool.
+Generative adversarial networks for extreme learned image compression. In Proceedings
+of the IEEE International Conference on Computer Vision, volume 2019-October, pages
+221–231, Seoul, Korea, Republic of, 2019. IEEE.
+[12] Fabian Mentzer, George Toderici, Michael Tschannen, and Eirikur Agustsson. High-fidelity
+generative image compression. In Advances in Neural Information Processing Systems,
+volume 2020-December, pages 11913–11924, Virtual, Online, 2020. MIT Press.
+[13] Yueyu Hu, Wenhan Yang, and Jiaying Liu. Coarse-to-fine hyper-prior modeling for learned
+image compression. In AAAI 2020 - 34th AAAI Conference on Artificial Intelligence, pages
+11013–11020, New York, NY, United states, 2020. AAAI press.
+[14] Dezhao Wang, Wenhan Yang, Yueyu Hu, and Jiaying Liu. Neural data-dependent transform
+for learned image compression. In Proceedings of the IEEE Computer Society Conference
+on Computer Vision and Pattern Recognition, volume 2022-June, pages 17358–17367, New
+Orleans, LA, United states, 2022. IEEE.
+[15] Fabian Brand, Kristian Fischer, and Andre Kaup. Rate-distortion optimized learning-based
+image compression using an adaptive hierachical autoencoder with conditional hyperprior.
+In IEEE Computer Society Conference on Computer Vision and Pattern Recognition Work-
+shops, pages 1885–1889, Virtual, Online, TN, United states, 2021. IEEE.
+[16] George Toderici, Sean M. OMalley, Sung Jin Hwang, Damien Vincent, David Minnen,
+Shumeet Baluja, Michele Covell, and Rahul Sukthankar. Variable rate image compression
+with recurrent neural networks. In 4th International Conference on Learning Representa-
+tions, ICLR 2016 - Conference Track Proceedings, San Juan, Puerto rico, 2016. ICLR.
+[17] George Toderici, Damien Vincent, Nick Johnston, Sung Jin Hwang, David Minnen, Joel
+Shor, and Michele Covell. Full resolution image compression with recurrent neural networks.
+In Proceedings - 30th IEEE Conference on Computer Vision and Pattern Recognition, CVPR
+2017, volume 2017-January, pages 5435–5443, Honolulu, HI, United states, 2017. IEEE.
+[18] Nick Johnston, Damien Vincent, David Minnen, Michele Covell, Saurabh Singh, Troy Chi-
+nen, Sung Jin Hwang, Joel Shor, and George Toderici. Improved lossy image compression
+with priming and spatially adaptive bit rates for recurrent networks. In Proceedings of the
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pages
+4385–4393, Salt Lake City, UT, United states, 2018. IEEE.
+[19] Renjie Zou, Chunfeng Song, and Zhaoxiang Zhang. The devil is in the details: Window-
+based attention for image compression. In Proceedings of the IEEE Computer Society
+Conference on Computer Vision and Pattern Recognition, volume 2022-June, pages 17471–
+17480, New Orleans, LA, United states, 2022. IEEE.
+[20] Lucas Theis, Wenzhe Shi, Andrew Cunningham, and Ferenc Huszar. Lossy image compres-
+sion with compressive autoencoders. In 5th International Conference on Learning Repre-
+sentations, ICLR 2017 - Conference Track Proceedings, Toulon, France, 2017. ICLR.
+[21] Fabian Mentzer, Eirikur Agustsson, Michael Tschannen, Radu Timofte, and Luc Van Gool.
+Conditional probability models for deep image compression. In Proceedings of the IEEE
+Computer Society Conference on Computer Vision and Pattern Recognition, pages 4394–
+4402, Salt Lake City, UT, United states, 2018. IEEE.
+[22] Jooyoung Lee, Seunghyun Cho, and Seung-Kwon Beack. Context-adaptive entropy model
+for end-to-end optimized image compression. In 7th International Conference on Learning
+Representations, ICLR 2019, New Orleans, LA, United states, 2019. ICLR.
+[23] Zongyu Guo, Zhizheng Zhang, Runsen Feng, and Zhibo Chen. Causal contextual prediction
+for learned image compression. IEEE Transactions on Circuits and Systems for Video
+Technology, 32(4):2329–2341, 2021.
+[24] Zhengxue Cheng, Ting Fu, Jiapeng Hu, Li Guo, Shihao Wang, Xiongxin Zhao, Dajiang
+Zhou, and Yang Song. Perceptual image compression using relativistic average least squares
+gans. In IEEE Computer Society Conference on Computer Vision and Pattern Recognition
+Workshops, pages 1895–1900, Virtual, Online, TN, United states, 2021. IEEE.
+[25] Nick Johnston, Elad Eban, Ariel Gordon, and Johannes Balle. Computationally eﬀicient
+neural image compression. arXiv preprint arXiv:1912.08771, 2019.
+[26] Zhengxue Cheng, Heming Sun, Masaru Takeuchi, and Jiro Katto. Deep residual learning
+for image compression. In CVPR Workshops, page 0. IEEE, 2019.
+[27] Guo-Hua Wang, Jiahao Li, Bin Li, and Yan Lu. Evc: Towards real-time neural image
+compression with mask decay. arXiv preprint arXiv:2302.05071, 2023.
+[28] Dailan He, Yaoyan Zheng, Baocheng Sun, Yan Wang, and Hongwei Qin. Checkerboard
+context model for eﬀicient learned image compression. In Proceedings of the IEEE Com-
+puter Society Conference on Computer Vision and Pattern Recognition, pages 14766–14775,
+Virtual, Online, United states, 2021. IEEE.
+[29] David Minnen and Saurabh Singh. Channel-wise autoregressive entropy models for learned
+image compression. In Proceedings - International Conference on Image Processing, ICIP,
+volume 2020-October, pages 3339–3343, Virtual, Abu Dhabi, United arab emirates, 2020.
+IEEE.
+[30] Dailan He, Ziming Yang, Weikun Peng, Rui Ma, Hongwei Qin, and Yan Wang. Elic: Eﬀi-
+cient learned image compression with unevenly grouped space-channel contextual adaptive
+coding. In Proceedings of the IEEE Computer Society Conference on Computer Vision and
+Pattern Recognition, volume 2022-June, pages 5708–5717, New Orleans, LA, United states,
+2022. IEEE.
+[31] Fei Yang, Luis Herranz, Joost van de Weijer, Jos A. Iglesias Guitin, Antonio Lpez, and
+Mikhail Mozerov. Variable rate deep image compression with modulated autoencoder.
+IEEE Signal Processing Letters, 27:331–335, 2019.
+[32] Ze Cui, Jing Wang, Shangyin Gao, Tiansheng Guo, Yihui Feng, and Bo Bai. Asymmetric
+gained deep image compression with continuous rate adaptation. In Proceedings of the
+IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pages
+10527–10536, Virtual, Online, United states, 2021. IEEE.
+[33] Yoojin Choi, Mostafa El-Khamy, and Jungwon Lee. Variable rate deep image compression
+with a conditional autoencoder. In Proceedings of the IEEE/CVF International Conference
+on Computer Vision. IEEE, 2019.
+[34] Tong Chen and Zhan Ma. Variable bitrate image compression with quality scaling factors.
+In ICASSP, IEEE International Conference on Acoustics, Speech and Signal Processing -
+Proceedings, volume 2020-May, pages 2163–2167, Barcelona, Spain, 2020. IEEE.
+[35] Wei Jiang, Wei Wang, Songnan Li, and Shan Liu. Online meta adaptation for variable-rate
+learned image compression. In IEEE Computer Society Conference on Computer Vision
+and Pattern Recognition Workshops, volume 2022-June, pages 497–505, New Orleans, LA,
+United states, 2022. IEEE.
+[36] Mu Li, Wangmeng Zuo, Shuhang Gu, Debin Zhao, and David Zhang. Learning convolutional
+networks for content-weighted image compression. In Proceedings of the IEEE Computer
+Society Conference on Computer Vision and Pattern Recognition, pages 3214–3223, Salt
+Lake City, UT, United states, 2018. IEEE.
+[37] Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, and Zhiyong Gao. Dvc:
+An end-to-end deep video compression framework. In Proceedings of the IEEE Computer
+Society Conference on Computer Vision and Pattern Recognition, volume 2019-June, pages
+10998–11007, Long Beach, CA, United states, 2019. IEEE.
+[38] Chao-Yuan Wu, Nayan Singhal, and Philipp Krahenbuhl. Video compression through image
+interpolation. In Lecture Notes in Computer Science (including subseries Lecture Notes in
+Artificial Intelligence and Lecture Notes in Bioinformatics), volume 11212 LNCS, pages
+425–440, Munich, Germany, 2018. Springer.
+[39] Oren Rippel, Sanjay Nair, Carissa Lew, Steve Branson, Alexander Anderson, and Lubomir
+Bourdev. Learned video compression. In Proceedings of the IEEE International Conference
+on Computer Vision, volume 2019-October, pages 3453–3462, Seoul, Korea, Republic of,
+2019. IEEE.
+[40] Haojie Liu, Han Shen, Lichao Huang, Ming Lu, Tong Chen, and Zhan Ma. Learned video
+compression via joint spatial-temporal correlation exploration. In AAAI 2020 - 34th AAAI
+Conference on Artificial Intelligence, pages 11580–11587, New York, NY, United states,
+2020. AAAI.
+[41] Theo Ladune, Pierrick Philippe, Wassim Hamidouche, Lu Zhang, and Olivier Deforges.
+Conditional coding for flexible learned video compression. arXiv preprint arXiv:2104.07930,
+2021.
+[42] Han Gao, Jinzhong Cui, Mao Ye, Shuai Li, Yu Zhao, and Xiatian Zhu. Structure-preserving
+motion estimation for learned video compression. In MM 2022 - Proceedings of the 30th
+ACM International Conference on Multimedia, pages 3055–3063, Lisboa, Portugal, 2022.
+ACM.
+[43] Jiayu Yang, Chunhui Yang, Fei Xiong, Feng Wang, and Ronggang Wang. Learned low
+bitrate video compression with space-time super-resolution. In IEEE Computer Society
+Conference on Computer Vision and Pattern Recognition Workshops, volume 2022-June,
+pages 1785–1789, New Orleans, LA, United states, 2022. IEEE.
+[44] Yibo Shi, Yunying Ge, Jing Wang, and Jue Mao. Alphavc: High-performance andeﬀicient
+learned video compression. In Lecture Notes in Computer Science (including subseries
+Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), volume 13679
+LNCS, pages 616–631, Tel Aviv, Israel, 2022. Springer.
+[45] Zhaobin Zhang, Yue Li, Kai Zhang, Li Zhang, and Yuwen He. Optimized bit allocation
+for learning-based video compression. In Proceedings - IEEE International Symposium on
+Circuits and Systems, volume 2022-May, pages 1938–1942, Austin, TX, United states, 2022.
+IEEE.
+[46] Eirikur Agustsson, David Minnen, Nick Johnston, Johannes Balle, Sung Jin Hwang, and
+George Toderici. Scale-space flow for end-to-end optimized video compression. In Proceed-
+ings of the IEEE Computer Society Conference on Computer Vision and Pattern Recogni-
+tion, pages 8500–8509, Virtual, Online, United states, 2020. Piscataway, NJ: IEEE.
+[47] Zhihao Hu, Zhenghao Chen, Dong Xu, Guo Lu, Wanli Ouyang, and Shuhang Gu. Improving
+deep video compression by resolution-adaptive flow coding. In Lecture Notes in Computer
+Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in
+Bioinformatics), volume 12347 LNCS, pages 193–209, Glasgow, United kingdom, 2020.
+Berlin: Springer.
+[48] Zhihao Hu, Guo Lu, and Dong Xu. Fvc: A new framework towards deep video compression
+in feature space. In Proceedings of the IEEE Computer Society Conference on Computer
+Vision and Pattern Recognition, pages 1502–1511, Virtual, Online, United states, 2021.
+Piscataway, NJ: IEEE.
+[49] Kai Lin, Chuanmin Jia, Xinfeng Zhang, Shanshe Wang, Siwei Ma, and Wen Gao. Dmvc:
+Decomposed motion modeling for learned video compression. IEEE Transactions on Circuits
+and Systems for Video Technology, 33(7):3502–3515, 2023.
+[50] Reza Pourreza, Hoang Le, Amir Said, Guillaume Sautiere, and Auke Wiggers. Boosting
+neural video codecs by exploiting hierarchical redundancy. In Proceedings - 2023 IEEE
+Winter Conference on Applications of Computer Vision, WACV 2023, pages 5344–5353,
+Waikoloa, HI, United states, 2023. IEEE.
+[51] Oren Rippel, Alexander G. Anderson, Kedar Tatwawadi, Sanjay Nair, Craig Lytle, and
+Lubomir Bourdev. Elf-vc: Eﬀicient learned flexible-rate video coding. In Proceedings of the
+IEEE International Conference on Computer Vision, pages 14459–14468, Virtual, Online,
+Canada, 2021. Piscataway, NJ: IEEE.
+[52] Jerry Liu, Shenlong Wang, Wei-Chiu Ma, Meet Shah, Rui Hu, Pranaab Dhawan, and Raquel
+Urtasun. Conditional entropy coding for eﬀicient video compression. In Lecture Notes in
+Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture
+Notes in Bioinformatics), volume 12362 LNCS, pages 453–468, Glasgow, United kingdom,
+2020. Springer.
+[53] Jiahao Li, Bin Li, and Yan Lu. Deep contextual video compression. In Advances in Neural
+Information Processing Systems, volume 22, pages 18114–18125, Virtual, Online, 2021.
+Piscataway, NJ: IEEE.
+[54] Yung-Han Ho, Chih-Peng Chang, Peng-Yu Chen, Alessandro Gnutti, and Wen-Hsiao Peng.
+Canf-vc: Conditional augmented normalizing flows forvideo compression. In Lecture Notes
+in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture
+Notes in Bioinformatics), volume 13676 LNCS, pages 207–223, Tel Aviv, Israel, 2022. Berlin:
+Springer.
+[55] Xihua Sheng, Jiahao Li, Bin Li, Li Li, Dong Liu, and Yan Lu. Temporal context mining
+for learned video compression. IEEE Transactions on Multimedia, pages 1–12, 2022.
+[56] Jiahao Li, Bin Li, and Yan Lu. Hybrid spatial-temporal entropy modelling for neural video
+compression. In MM 2022 - Proceedings of the 30th ACM International Conference on
+Multimedia, pages 1503–1511, Lisboa, Portugal, 2022. ACM.
+[57] Fabian Mentzer, George Toderici, David Minnen, Sung Jin Hwang, Sergi Caelles, Mario
+Lucic, and Eirikur Agustsson. Vct: A video compression transformer. In Advances in
+Neural Information Processing Systems, volume 35, New Orleans, LA, United states, 2022.
+Cambridge: MIT Press.
+[58] Jiahao Li, Bin Li, and Yan Lu. Neural video compression with diverse contexts. In Pro-
+ceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pages
+22616–22626. IEEE, 2023.
+[59] Amirhossein Habibian, Ties Van Rozendaal, Jakub Tomczak, and Taco Cohen. Video
+compression with rate-distortion autoencoders. In Proceedings of the IEEE International
+Conference on Computer Vision, volume 2019-October, pages 7032–7041, Seoul, Korea,
+Republic of, 2019. Piscataway, NJ: IEEE.
+[60] Jorge Pessoa, Helena Aidos, Pedro Tomas, and Mario A. T. Figueiredo. End-to-end learning
+of video compression using spatio-temporal autoencoders. In IEEE Workshop on Signal
+Processing Systems, SiPS: Design and Implementation, volume 2020-October, pages 1–6,
+Virtual, Coimbra, Portugal, 2020. IEEE.
+[61] Ren Yang, Fabian Mentzer, Luc Van Gool, and Radu Timofte. Learning for video com-
+pression with recurrent auto-encoder and recurrent probability model. IEEE Journal on
+Selected Topics in Signal Processing, 15(2):388–401, 2021.
+[62] Jun Han, Salvator Lombardo, Christopher Schroers, and Stephan Mandt. Deep generative
+video compression. In Advances in Neural Information Processing Systems, volume 32,
+Vancouver, BC, Canada, 2019. NIPS.
+[63] Fabian Mentzer, Eirikur Agustsson, Johannes Balle, David Minnen, Nick Johnston, and
+George Toderici. Neural video compression using gans fordetail synthesis andpropagation.
+In Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial In-
+telligence and Lecture Notes in Bioinformatics), volume 13686 LNCS, pages 562–578, Tel
+Aviv, Israel, 2022. Springer.
+[64] Mustafa Shukor, Bharath Bhushan Damodaran, Xu Yao, and Pierre Hellier. Video cod-
+ing using learned latent gan compression. In MM 2022 - Proceedings of the 30th ACM
+International Conference on Multimedia, pages 2239–2248, Lisboa, Portugal, 2022. ACM.
+[65] Tiesong Zhao, Weize Feng, HongJi Zeng, Yiwen Xu, Yuzhen Niu, and Jiaying Liu. Learning-
+based video coding with joint deep compression and enhancement. In MM 2022 - Proceed-
+ings of the 30th ACM International Conference on Multimedia, pages 3045–3054, Lisboa,
+Portugal, 2022. ACM.
+[66] Ren Yang, Fabian Mentzer, Luc Van Gool, and Radu Timofte. Learning for video com-
+pression with hierarchical quality and recurrent enhancement. In Proceedings of the IEEE
+Computer Society Conference on Computer Vision and Pattern Recognition, pages 6627–
+6636, Virtual, Online, United states, 2020. Piscataway, NJ: IEEE.
+[67] Jianping Lin, Dong Liu, Houqiang Li, and Feng Wu. M-lvc: Multiple frames prediction for
+learned video compression. In Proceedings of the IEEE Computer Society Conference on
+Computer Vision and Pattern Recognition, pages 3543–3551, Virtual, Online, United states,
+2020. Piscataway, NJ: IEEE.
+[68] Reza Pourreza and Taco Cohen. Extending neural p-frame codecs for b-frame coding. In
+Proceedings of the IEEE International Conference on Computer Vision, pages 6660–6669,
+Virtual, Online, Canada, 2021. IEEE.
+[69] Emilien Dupont, Adam Goliski, Milad Alizadeh, Yee Whye The, and Arnaud Doucet. Coin:
+Compression with implicit neural representations. arXiv preprint arXiv:2103.03123, 2021.
+[70] Emilien Dupont, Hrushikesh Loya, Milad Alizadeh, Adam Goliski, Yee Whye Teh,
+and Arnaud Doucet. Coin++: Neural compression across modalities. arXiv preprint
+arXiv:2201.12904, 2022.
+[71] Juan Ramirez and Jose Gallego-Posada. L0onie: Compressing coins with L0-constraints.
+arXiv preprint arXiv:2207.04144, 2022.
+[72] Yannick Strumpler, Janis Postels, Ren Yang, Luc Van Gool, and Federico Tombari. Im-
+plicit neural representations for image compression. In Lecture Notes in Computer Science
+(including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinfor-
+matics), volume 13686 LNCS, pages 74–91, Tel Aviv, Israel, 2022. Springer.
+[73] Hao Chen, Bo He, Hanyu Wang, Yixuan Ren, Ser-Nam Lim, and Abhinav Shrivastava.
+Nerv: Neural representations for videos. In Advances in Neural Information Processing
+Systems, volume 26, pages 21557–21568, Virtual, Online, 2021. Cambridge: MIT Press.
+[74] Zizhang Li, Mengmeng Wang, Huaijin Pi, Kechun Xu, Jianbiao Mei, and Yong Liu. E-nerv:
+Expedite neural video representation withdisentangled spatial-temporal context. In Lecture
+Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and
+Lecture Notes in Bioinformatics), volume 13695 LNCS, pages 267–284, Tel Aviv, Israel,
+2022. Berlin: Springer.
+[75] Hao Chen, Matthew Gwilliam, Ser-Nam Lim, and Abhinav Shrivastava. Hnerv: A hybrid
+neural representation for videos. In Proceedings of the IEEE/CVF Conference on Computer
+Vision and Pattern Recognition, pages 10270–10279. IEEE, 2023.
+[76] Bo He, Xitong Yang, Hanyu Wang, Zuxuan Wu, Hao Chen, Shuaiyi Huang, Yixuan Ren,
+Ser-Nam Lim, and Abhinav Shrivastava. Towards scalable neural representation for diverse
+videos. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
+Recognition, pages 6132–6142. IEEE, 2023.
+[77] Xin Deng, Wenzhe Yang, Ren Yang, Mai Xu, Enpeng Liu, Qianhan Feng, and Radu Tim-
+ofte. Deep homography for eﬀicient stereo image compression. In Proceedings of the IEEE
+Computer Society Conference on Computer Vision and Pattern Recognition, pages 1492–
+1501, Virtual, Online, United states, 2021. IEEE.
+[78] Matthias Wodlinger, Jan Kotera, Jan Xu, and Robert Sablatnig. Sasic: Stereo image
+compression with latent shifts and stereo attention. In Proceedings of the IEEE Computer
+Society Conference on Computer Vision and Pattern Recognition, volume 2022-June, pages
+651–660, New Orleans, LA, United states, 2022. IEEE.
+[79] Yongqi Zhai, Luyang Tang, Yi Ma, Rui Peng, and Ronggang Wang. Disparity-based stereo
+image compression with aligned cross-view priors. In MM 2022 - Proceedings of the 30th
+ACM International Conference on Multimedia, pages 2351–2360, Lisboa, Portugal, 2022.
+ACM.
+[80] Jianjun Lei, Xiangrui Liu, Bo Peng, Dengchao Jin, Wanqing Li, and Jingxiao Gu. Deep
+stereo image compression via bi-directional coding. In Proceedings of the IEEE Computer
+Society Conference on Computer Vision and Pattern Recognition, volume 2022-June, pages
+19637–19646, New Orleans, LA, United states, 2022. IEEE.
+[81] Zhenghao Chen, Guo Lu, Zhihao Hu, Shan Liu, Wei Jiang, and Dong Xu. Lsvc: A learning-
+based stereo video compression framework. In Proceedings of the IEEE Computer Society
+Conference on Computer Vision and Pattern Recognition, volume 2022-June, pages 6063–
+6072, New Orleans, LA, United states, 2022. IEEE.
+[82] Bo Peng, Yuying Jing, Dengchao Jin, Xiangrui Liu, Zhaoqing Pan, and Jianjun Lei. Texture-
+guided end-to-end depth map compression. In Proceedings - International Conference on
+Image Processing, ICIP, pages 2386–2390, Bordeaux, France, 2022. IEEE.
+[83] Minghui Chen, Pingping Zhang, Zhuo Chen, Yun Zhang, Xu Wang, and Sam Kwong.
+End-to-end depth map compression framework via rgb-to-depth structure priors learning.
+In Proceedings - International Conference on Image Processing, ICIP, pages 3206–3210,
+Bordeaux, France, 2022. IEEE.
+[84] Hui Lan, Zhe Ji, Cheolkon Jung, Dan Zou, and Ming Li. Multisensor collaboration network
+for video compression based on wavelet decomposition. IEEE Transactions on Circuits and
+Systems for Video Technology, 33(1):434–444, 2023.
+[85] Guo Lu, Tianxiong Zhong, Jing Geng, Qiang Hu, and Dong Xu. Learning based multi-
+modality image and video compression. In Proceedings of the IEEE Computer Society
+Conference on Computer Vision and Pattern Recognition, volume 2022-June, pages 6073–
+6082, New Orleans, LA, United states, 2022. IEEE.
+[86] Xuhao Jiang, Weimin Tan, Tian Tan, Bo Yan, and Liquan Shen. Multi-modality deep
+network for extreme learned image compression. In Proceedings of the AAAI Conference
+on Artificial Intelligence, volume 37, pages 1033–1041. AAAI press, 2023.
+[87] Shuai Yang, Yueyu Hu, Wenhan Yang, Ling-Yu Duan, and Jiaying Liu. Towards coding for
+human and machine vision: Scalable face image coding. IEEE Transactions on Multimedia,
+23:2957–2971, 2021.
+[88] Hyomin Choi and Ivan V. Bajic. Scalable video coding for humans and machines. In
+2022 IEEE 24th International Workshop on Multimedia Signal Processing, MMSP 2022,
+Shanghai, China, 2022. IEEE.
+[89] Alban Marie, Karol Desnos, Luce Morin, and Lu Zhang. Video coding for machines: Large-
+scale evaluation of deep neural networks robustness to compression artifacts for semantic
+segmentation. In 2022 IEEE 24th International Workshop on Multimedia Signal Processing,
+MMSP 2022, Shanghai, China, 2022. IEEE.
+[90] Zhimeng Huang, Chuanmin Jia, Shanshe Wang, and Siwei Ma. Hmfvc: A human-machine
+friendly video compression scheme. IEEE Transactions on Circuits and Systems for Video
+Technology, pages 1–1, 2022.
+[91] Xiaokai Yi, Hanli Wang, Sam Kwong, and C.-C. Jay Kuo. Task-driven video compression
+for humans and machines: Framework design and optimization. IEEE Transactions on
+Multimedia, pages 1–12, 2022.
+[92] Wei Jiang, Hyomin Choi, and Fabien Racapé. Adaptive human-centric video compression
+for humans and machines. In Proceedings of the IEEE/CVF Conference on Computer Vision
+and Pattern Recognition, pages 1121–1129, Vancouver, Canada, 2023. IEEE.
